@@ -1,3 +1,3 @@
 # PythonCode
-This is for fun project
-So dont take serious
+This is just for fun projects
+So dont take it seriously
