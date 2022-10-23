@@ -1,3 +1,3 @@
 # PythonCode
-They are just fun projects
+They are just fun projects\n
 So dont take them seriously
